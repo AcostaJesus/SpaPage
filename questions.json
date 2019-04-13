@@ -1,0 +1,46 @@
+{"quizlist":[
+    {
+    "question":"What are you looking to achieve with your skin care?",
+    "option1":"oil control",
+    "option2":"reduce acne",
+    "option3":"help with dryness",
+    "option4":"reduce pore sile"
+    },
+    {
+    "question":"What is your skin type?",
+    "option1":"Oily (shiny, large pores, acne)",
+    "option2":"Normal (not many issues, keep skins regular)",
+    "option3":"Dry (redness, dull skin, need to use a lot of moisturizer)",
+    "option4":"Combo (oily on forehead, nose, and chin, cheeks seem dry)"
+    },
+    {
+    "question":"How much time would you like to spend on your routine?",
+    "option1":"5 mins",
+    "option2":"10 mins",
+    "option3":"20 mins",
+    
+    "option4":"30 mins"
+    },
+    {
+    "question":"Do you have any allergies?",
+    "option1":"",
+    "option2":"",
+    "option3":"",
+    "option4":""
+    },
+    {
+    "question":"Are you using Retinol, Renti-A, Accutane?",
+    "option1":"",
+    "option2":"",
+    "option3":"",
+    "option4":""
+    },
+    {
+    "question":"What products are you currently using?",
+    "option1":"cleanser, toner, lotion, SPF",
+    "option2":"cleanser, toner, eye cream, serum, lotion, SPF",
+    "option3":"cleanser, lotion",
+    "option4":"none"
+    }
+    ]
+    }
